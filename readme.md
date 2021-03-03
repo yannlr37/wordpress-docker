@@ -18,5 +18,5 @@ Puis procéder à l'installation.
 Une fois celle-ci terminée, modifier les droits sur les fichiers pour pouvoir les éditer.
 
 ```
-sudo chown -R src/
+sudo chown -R yann:yann src/
 ```
